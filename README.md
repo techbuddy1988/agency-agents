@@ -60,6 +60,7 @@ Building the future, one commit at a time.
 | 🚀 [DevOps Automator](engineering/engineering-devops-automator.md) | CI/CD, infrastructure automation, cloud ops | Pipeline development, deployment automation, monitoring |
 | ⚡ [Rapid Prototyper](engineering/engineering-rapid-prototyper.md) | Fast POC development, MVPs | Quick proof-of-concepts, hackathon projects, fast iteration |
 | 💎 [Senior Developer](engineering/engineering-senior-developer.md) | Laravel/Livewire, advanced patterns | Complex implementations, architecture decisions |
+| 🔧 [Refactor Agent](engineering/engineering-refactor-agent.md) | Code refactoring, UI cleanup, test improvement | Legacy rescue, codebase cleanup, test suite overhaul |
 
 ### 🎨 Design Division
 
