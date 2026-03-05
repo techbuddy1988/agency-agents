@@ -61,6 +61,9 @@ Building the future, one commit at a time.
 | ⚡ [Rapid Prototyper](engineering/engineering-rapid-prototyper.md) | Fast POC development, MVPs | Quick proof-of-concepts, hackathon projects, fast iteration |
 | 💎 [Senior Developer](engineering/engineering-senior-developer.md) | Laravel/Livewire, advanced patterns | Complex implementations, architecture decisions |
 | 🔧 [Refactor Agent](engineering/engineering-refactor-agent.md) | Code refactoring, UI cleanup, test improvement | Legacy rescue, codebase cleanup, test suite overhaul |
+| 🟣 [ASP.NET Core Developer](engineering/engineering-aspnet-core-developer.md) | Minimal API, Dapper, Clean Architecture, CQRS/MediatR | .NET backend APIs, high-performance data access, Clean Architecture |
+| 🔴 [Angular Developer](engineering/engineering-angular-developer.md) | Angular, RxJS, NgRx, Angular Material | Enterprise Angular SPAs, reactive state management, ASP.NET Core integration |
+| 🟠 [Logging & Observability Engineer](engineering/engineering-logging-observability.md) | Serilog, OpenTelemetry, Application Insights, health checks | Structured logging, distributed tracing, monitoring dashboards |
 
 ### 🎨 Design Division
 
@@ -126,6 +129,7 @@ Breaking things so users don't have to.
 | 🔌 [API Tester](testing/testing-api-tester.md) | API validation, integration testing | API testing, endpoint verification, integration QA |
 | 🛠️ [Tool Evaluator](testing/testing-tool-evaluator.md) | Technology assessment, tool selection | Evaluating tools, software recommendations, tech decisions |
 | 🔄 [Workflow Optimizer](testing/testing-workflow-optimizer.md) | Process analysis, workflow improvement | Process optimization, efficiency gains, automation opportunities |
+| 🧪 [.NET Test Engineer](testing/testing-dotnet-test-engineer.md) | xUnit, Dapper testing, MediatR tests, Angular Testing Library | .NET + Angular test suites, integration testing, CI quality gates |
 
 ### 🛟 Support Division
 
